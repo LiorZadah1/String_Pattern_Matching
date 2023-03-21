@@ -1,0 +1,3 @@
+C:/Users/liorx/CLionProjects/String-Pattern-Matching/cmake-build-debug/CMakeFiles/String_Pattern_Matching.dir
+C:/Users/liorx/CLionProjects/String-Pattern-Matching/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liorx/CLionProjects/String-Pattern-Matching/cmake-build-debug/CMakeFiles/rebuild_cache.dir
